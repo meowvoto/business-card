@@ -1,2 +1,2 @@
 # business-card
-My first page
+My first page for Skillfactory's project 
